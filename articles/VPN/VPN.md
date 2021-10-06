@@ -1,6 +1,6 @@
 ## VPN
 
-First think first: **VPN is not designed to be anonymisation technology**. It has multiple issues. Use 
+First think first: **VPN is not designed to be anonymisation technology**. It has multiple issues. **Use [Tor](https://www.torproject.org) instad whenever possible!**
 
 ### NordVPN
 *Chipest and probably shittiest.*
