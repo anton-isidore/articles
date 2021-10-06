@@ -18,7 +18,7 @@ First thing first: **VPN is not designed to be anonymization technology**. It ha
    ```
    Run `sudo update-grub` and **reboot**.
 
-4. With OpenVPN it is hard to create relialable kill-switch.
+4. Separate killswitch is needed. `// Todo: https://github.com/nologs-vpn/killswitch looks promising`
 
 ### [`nologs-vpn`](https://nologs-vpn.com/)
 `// Todo: investigate, test...`
