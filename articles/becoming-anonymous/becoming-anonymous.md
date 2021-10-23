@@ -25,5 +25,8 @@
 
 1. Use anonymous SIM
 2. Use flight-mode often
+3. Do not use iPhone
+4. Use phone [without Google](articles/android-without-google/android-without-google.md)
+5. Do not use any "tracking" service like Google Spyware
 
 `// Todo: ...`
