@@ -20,7 +20,7 @@
 ## Operational Security
 ### Identity separation
 - [Design of Identity Manager with Identity Generator](articles/design-of-Identity-manager-with-identity-generator/design-of-Identity-manager-with-identity-generator.mddesign-of-Identity-manager-with-identity-generator.md)
-- [Becoming Anonymous](articles/becoming-anonymous/becoming-anonymous.md)
+- [Becoming Anonymous](articles/becoming-anonymous/becoming-anonymous.md) `[TODO / In progress]`
 - [Identity separation](articles/identity-separation/identity-separation.md) Technical tips, how-to keep your identities separated and not to doxx yoursef
 
 ### Other
