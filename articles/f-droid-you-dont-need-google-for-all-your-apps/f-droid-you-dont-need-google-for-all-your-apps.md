@@ -17,7 +17,7 @@ I really love simplicity! I love it when the app focuses on just the one thing a
 > The list is my *opinionated* recommendation of apps I use regularly in my day-to-day life. I have no other affiliation with any of those apps.
 
 ### Insular
-This [Insular](https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/ uses [Work Profile feature](https://support.google.com/work/android/answer/6191949?hl=en) of Android to create separate isolated environment. I have all non-FOSS apps locked in that environment and I have this profile turned OFF 99% of the time.
+The [Insular](https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/) uses [Work Profile feature](https://support.google.com/work/android/answer/6191949?hl=en) of Android to create separate isolated environment. I have all non-FOSS apps locked in that environment and I have this profile turned OFF 99% of the time.
 
 ### NewPipe (YouTube)
 
