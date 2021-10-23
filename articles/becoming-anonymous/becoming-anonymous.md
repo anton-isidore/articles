@@ -2,7 +2,7 @@
 
 ## Principles
 
-1. [Selfhost](https://github.com/anton-isidore/articles#selfhosting-independence-antifragility) as much as possible
+1. [Selfhost](../../../README.md#selfhosting-independence-antifragility) as much as possible
 2. Prefer services that does not require identity
 3. Do not share your real name, address, birthsday, anything ... online
 4. Delete everything you can what is already out there. But also accept that it is not 100% possible. Internet remmembers!
