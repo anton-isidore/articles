@@ -16,6 +16,9 @@ I really love simplicity! I love it when the app focuses on just the one thing a
 
 > The list is my *opinionated* recommendation of apps I use regularly in my day-to-day life. I have no other affiliation with any of those apps.
 
+### Insular
+This [Insular](https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/ uses [Work Profile feature](https://support.google.com/work/android/answer/6191949?hl=en) of Android to create separate isolated environment. I have all non-FOSS apps locked in that environment and I have this profile turned OFF 99% of the time.
+
 ### NewPipe (YouTube)
 
 The [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) dwells on the well deserved first place on this list. It is the absolute killer. It allows you to play YouTube videos **privately** without the need to login and **without adds**. It also allows you to **download videos**.
