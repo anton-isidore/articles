@@ -31,3 +31,15 @@
 6. Use only [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)
 
 `// Todo: ...`
+
+## Work
+
+1. Do remote work only
+2. Use diffrent identities for different clients
+3. Get paid in BTC only
+
+## Lifestyle
+
+1. Be minimalist
+2. Have "I am a average (poor) Joe" appearence and attitude
+3. Be able to relocate quickly
