@@ -30,7 +30,7 @@
 5. Do not use any "tracking" service like Google Spyware
 6. Use only [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)
 
-`// Todo: ...`
+`// Todo: ...` (Hard, carrier companies spy on your and repot your movement to the government)
 
 ## Work
 
@@ -43,3 +43,7 @@
 1. Be minimalist
 2. Have "I am a average (poor) Joe" appearence and attitude
 3. Be able to relocate quickly
+
+## Accomodation (Hotels)
+
+`// Todo: ...` (Uknown, research needed, nearly everybody requires ID and reports you to the local police)
