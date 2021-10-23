@@ -23,7 +23,7 @@ The [Insular](https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/) uses
 
 The [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) dwells on the well deserved first place on this list. It is the absolute killer. It allows you to play YouTube videos **privately** without the need to login and **without adds**. It also allows you to **download videos**.
 
-### Escapepod asn AntennaPod (Podcast)
+### Escapepod and AntennaPod (Podcast)
 
 The [Escapepod](https://f-droid.org/en/packages/org.y20k.escapepod/) is a no-clutter app focused on delivering only features that matter. The maintainer is super-responsive on bugs and suggestions. I love it.
 
