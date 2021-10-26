@@ -28,11 +28,15 @@ There is no such a solution on the market which provides:
 #### Compromise but small light at the end of the tunnel
 Use plaintext files, synchronize them with Syncthing and ecrypt them with Cryptomator (which is currently not possible because of [this](https://github.com/cryptomator/android/issues/35)).
 
-### Sadness #4: ProtonMail app is not open-source available on F-Droid
+### Sadness #4: ProtonMail app is not ~~open-source~~ available on F-Droid
+
+Progress:
+- Protonmail Android is now [open-source](https://github.com/ProtonMail/proton-mail-android).
+- [Github Issue about FDroid](https://github.com/ProtonMail/proton-mail-android/issues/1)
+- [Issue in F-droid](https://gitlab.com/fdroid/rfp/-/issues/1323)
 
 #### Light at the end of the tunnel
-- [Reddit: ProtonMail on F-droid?](https://gitlab.com/fdroid/rfp/-/issues/1323)
-- [F-Droid: ProtonMail](https://www.reddit.com/r/ProtonMail/comments/jd0opi/protonmail_on_fdroid/g9b0dw6)
+- Izzy [added Protonmail App into his reposiory](https://github.com/ProtonMail/proton-mail-android/issues/1#issuecomment-677775345)
 
 ### Sadness #5: Cannot use TREZOR as key into my Password Manager
 > *Traditional password managers share one weak point - the master password. Once someone knows your Master Password, they can get all of your passwords. Trezor Password Manager doesn't require a master password. Instead, your Trezor is the master key to your passwords. [source: [trezor.io](https://trezor.io/passwords/)]* 
