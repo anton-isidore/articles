@@ -14,6 +14,8 @@ Sometimes, pages are not working with Tor. My general advice is: **If the page i
 
 ## Browser: Firefox
 
+👉 There is amazing guide [Yet Another Firefox Hardening Guide](https://chrisx.xyz/blog/yet-another-firefox-hardening-guide/) that you should definitelly check.
+
 However, sometimes, it is not possible to use Tor (governments, banks, airlines, …).
 
 In this case, this article promotes using [Firefox](https://www.mozilla.org/en-US/firefox/new/) because:
