@@ -106,8 +106,7 @@ To setup it:
 [ICSx5](https://f-droid.org/en/packages/at.bitfire.icsdroid/) can be used for synchronization with external ICS links (for example [Facebook Events](https://www.it-support.com.au/how-to-import-facebook-calendar-to-google-calendar-and-outlook/2018/03/)).
 
 ## Translator / Language checker
-
-Google Translator was impossible to replace for me. But it can be used anonymously and the mobile app works [without Google Play services](../android-without-google/android-without-google.md#aurora-as-a-proxy-to-google-play).
+Very good alternative to Google Translator is [DeepL](https://www.deepl.com). It has also the Android app. For languages that DeepL is not supporting, the Google Translator can be used anonymously and the mobile app works [without Google Play services](../android-without-google/android-without-google.md#aurora-as-a-proxy-to-google-play).
 
 Some interesting projects in tthis fields are:
 - [LanguageTool](https://languagetool.org/) is service similart to [Grammarly](https://www.grammarly.com/). But they have test-box on the main page that can be used for short checks.
