@@ -122,12 +122,9 @@ Wallets **supporting it**:
   ```
   
   You can get the exact command for your node from the Raspiblitz menu: `[ELECTRS]`→`[CONNECT]`. **The Tor browser needs to be running to serve as a Tor proxy.** If you have [`torsocs` installed](https://linuxconfig.org/install-tor-proxy-on-ubuntu-20-04-linux) and use them as a proxy, use port `9050` instead of `9150`. Check [Electrum documentation](https://electrum.readthedocs.io/en/latest/tor.html) for more info about connecting Electrum Wallet to a Tor node.
+- **[TREZOR Suite](https://github.com/trezor/trezor-suite)**, see [this guide](https://trezor.io/learn/a/full-node-via-electrum-server) to set it up.
 - In **[Phoenix Wallet](https://phoenix.acinq.co/)** go to settings and navigate `[General]`→`[Electrum server]`, click the `[Set server]` button, and paste the onion address provided by Raspiblitz. The port must be changed to `50001` (for more info see [phoenix/issues/44](https://github.com/ACINQ/phoenix/issues/44#issuecomment-717315660)).
 - In **[Wasabi Wallet](https://www.wasabiwallet.io/)** you just need to [set the onion address](https://docs.wasabiwallet.io/using-wasabi/BitcoinFullNode.html#using-an-already-existing-remote-bitcoin-full-node). of your Bitcoin Full node. **It is different from the Electrum server** and can get it by `bitcoin-cli getnetworkinfo` command. Wasabi then uses your full node to download the block instead of using a random one.
-
-Wallets **NOT supporting it 🔔 but hopefully soon will**:
-
-- [TREZOR Suite](https://github.com/trezor/trezor-suite) has it is on [the roadmap](https://github.com/trezor/trezor-suite/issues/2737).
 
 ## Blockchain Explorer
 
