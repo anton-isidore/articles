@@ -105,20 +105,18 @@ Here are some ideas to consider, but they **strongly depend on the threat model*
 
 ## Moving funds privately and without asking for permission
 
-The TREZOR software (both [webpage wallet](https://wallet.trezor.io) and [Suit for desktop](https://suite.trezor.io/)) have (at the time of the publishing of this article) those issues:
+We can use the TREZOR [Suite](https://suite.trezor.io/)), but I see those issues:
 
-1. It is not possible to [connect them to the custom Bitcoin full node #2737](https://github.com/trezor/trezor-suite/issues/2737)
-2. It is not possible to use [custom blockchain explorer #3211](https://github.com/trezor/trezor-suite/issues/3211).
-3. They communicate with Satoshi Labs backend server (the only permissible connection should be to the specified Bitcoin full node).
-4. [Coin-control is not implemented #2770](https://github.com/trezor/trezor-suite/issues/2770).
+1. It is not possible to use [custom blockchain explorer #3211](https://github.com/trezor/trezor-suite/issues/3211).
+2. They communicate with Satoshi Labs backend server (the only permissible connection should be to the specified Bitcoin full node).
 
-**Because of those issues, it is unfortunately not possible to use TREZOR wallet software**.
+We need to:
+1. Enable Tor only mode in TREZOR Suite.
+2. Set TREZOR Suite to connect to our server only ([guide here](https://trezor.io/learn/a/full-node-via-electrum-server))
 
-> TREZOR Suite is under active development and all mentioned issues are recognized by the team. Hopefully, they will be addressed soon. Check mentioned Github issues to see the progress.
+### Electrum Wallet
 
-### Electrum Wallet to the rescue
-
-The [Electrum](https://electrum.org/) wallet has support for TREZOR, can be connected to the full node over Tor, and provides coin-control.
+Alternatively, the [Electrum](https://electrum.org/) wallet has support for TREZOR, can be connected to the full node over Tor, and provides coin-control.
 
 1. We [download Electrum Wallet](https://electrum.org/#download) and **VERIFY signature**. Verifying the signature **is a must**. Why? > GPG signatures are proof that distributed files have been signed by the owner of the signing key. For example, if this website was compromised and the original Electrum files had been replaced, signature verification would fail, because the attacker would not be able to create valid signatures. *Quotation directly from Electrum download page*
     - Download the [publisher\'s GPG public key from Github](https://github.com/spesmilo/electrum/blob/master/pubkeys/ThomasV.asc).
