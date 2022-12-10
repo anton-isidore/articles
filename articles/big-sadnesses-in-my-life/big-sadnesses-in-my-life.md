@@ -58,7 +58,7 @@ Also Tor Browser does not enables `webauthn` by default. You have to enable it i
 ### Sadness #7: No good service to buy virtual phone number
 I need anonymous phone numbers to generate virtual identities. 
 
-**Parameters:**
+**Required parameters:**
 - Anonymous
 - Can be paid with Bitcoin over Lightning Network
 - Available over Tor or at least over VPN
