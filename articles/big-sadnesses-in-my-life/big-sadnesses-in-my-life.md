@@ -62,6 +62,7 @@ The is [Hushed](https://hushed.com/), but its is shit. Does not work on Degoogle
 
 #### Light at the end of the tunnel
 - There is https://sms4sats.com that partially solves that for SMS verifications.
+- There is also https://lnvpn.net/phone-numbers but thay are just proxy to https://sms4sats.com 
 
 #### Graveyard 🪦
 - The [lnsms.world](https://lnsms.world/) service was shut down.
