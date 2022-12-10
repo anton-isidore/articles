@@ -56,7 +56,14 @@ Also Tor Browser does not enables `webauthn` by default. You have to enable it i
 
 
 ### Sadness #7: No good service to buy virtual phone number
-I need anonymous phone numbers to generate virtual identities.
+I need anonymous phone numbers to generate virtual identities. 
+
+**Parameters:**
+- Anonymous
+- Can be paid with Bitcoin over Lightning Network
+- Available over Tor or at least over VPN
+- Scalable: I need to be able to buy a lot of numbers
+- Durable: I need to keep that number for life (if I need to attach an identity to it)
 
 The is [Hushed](https://hushed.com/), but its is shit. Does not work on Degoogled phone, does not accepts Bitcoin/Lightning/Monero and it is quite expensive if you want to have a lot of numbers.
 
