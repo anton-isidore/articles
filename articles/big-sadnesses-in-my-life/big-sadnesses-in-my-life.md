@@ -52,5 +52,13 @@ Why FIDO2? Read [this article](https://blog.trezor.io/make-passwords-a-thing-of-
 
 - ProtonMail, there are [maybe some plans](https://www.reddit.com/r/ProtonMail/comments/g2iovq/when_is_u2f_in_protonmail/fnn36xe/) to add it. They also metioned it in [this tweet](https://twitter.com/protonmail/status/979100397087444992).
 
-
 Also Tor Browser does not enables `webauthn` by default. You have to enable it in `about:config` by setting `security.webauth.webauthn` to `true`.
+
+
+### Sadness #7: No good service to buy virtual phone number
+I need anonymous phone numbers to generate virtual identities.
+
+The is [Hushed](https://hushed.com/), but its is shit. Does not work on Degoogled phone, does not accepts Bitcoin/Lightning/Monero and it is quite expensive if you want to have a lot of numbers.
+
+#### Light at the end of the tunnel
+- There is https://sms4sats.com that partially solves that for SMS verifications.
