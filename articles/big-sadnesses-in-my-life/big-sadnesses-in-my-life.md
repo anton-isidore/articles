@@ -73,3 +73,11 @@ The is [Hushed](https://hushed.com/), but its is shit. Does not work on Degoogle
 
 #### Graveyard 🪦
 - The [lnsms.world](https://lnsms.world/) service was shut down.
+
+### Sadness #8: Phones are tracked by the [IMEI](https://en.wikipedia.org/wiki/International_Mobile_Equipment_Identity)
+- Phones are easily tracked by this. Switching SIMs wont help, this ID is unique to the phone itself.
+
+#### Light at the end of the tunnel
+- The IMEI can be changed.
+- There is a project that allows to changed IMEI every day or so: https://invisv.com/pgpp/
+   - More info about project: https://www.usenix.org/conference/usenixsecurity21/presentation/schmitt
