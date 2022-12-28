@@ -26,7 +26,7 @@ There is no such a solution on the market which provides:
 - mobile app + desktop app with concistent UI
 
 #### Compromise but small light at the end of the tunnel
-Use plaintext files, synchronize them with Syncthing and ecrypt them with Cryptomator (which is currently not possible because of [this](https://github.com/cryptomator/android/issues/35)).
+Use plaintext files, synchronize them with Syncthing and encrypt them with Cryptomator (which is currently not possible because of [this](https://github.com/cryptomator/android/issues/35)).
 
 ### Sadness #4: ProtonMail app is not ~~open-source~~ available on F-Droid
 
