@@ -1,9 +1,9 @@
 ## Using Bitcoin Safe
 
-### 1. ❗Bitcoin is NOT anonymous❗(onchain)
+### Onchain Bitcoin is NOT anonymous❗
 I cannot stess this enought. 
 
-## Problem
+#### Problem
 
 The amount of bitcoin you have is not just a one number that you see in our wallet. 
 Bitcoins in your wallet are actually stored in pieces called [UTXO](https://en.wikipedia.org/wiki/Unspent_transaction_output)
@@ -31,7 +31,7 @@ This is how a peel-chain can look like and if you are able to identify what is t
 (by amount, rounding, known merchant adddresses, ...) it is easy to identify such chain and if you expose your identity just
 once in that spend chain, the whole chain can be attributed to you.
 
-## Solution
+#### Solution
 1. Use Lightning Network whenever possible
 2. Practice Coin Control, label your UTXos
 3. Avoid creating a long peel chains
@@ -41,12 +41,12 @@ once in that spend chain, the whole chain can be attributed to you.
    - rather donate them to some charity
    - or if you are greedy fuck, swap them for Lightning on [fixedfloat.com](https://fixedfloat.com/) or similar
 
-### 2. Use Lightning Network to spend
+### Use Lightning Network to spend
 
-## Problem
+#### Problem
 You have UTXO that you want to spend anonymously!
 
-## Solution
+#### Solution
 1. Open Lightning Channel to some big node using the UTXO
 2. Spend whole channel capacity
 3. Close the channel with the [1% of unspendable amount](https://github.com/lightning/bolts/blob/master/02-peer-protocol.md#rationale) to the address of some charity.
