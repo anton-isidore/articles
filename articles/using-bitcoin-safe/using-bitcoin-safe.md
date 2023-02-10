@@ -64,3 +64,4 @@ This will cost you ~1% (the unspendable amount in the channel) but **you will ke
 3. [NewPipe](https://newpipe.net/donate/)- Youtube Client for Androind (no adds, download videos, playing on background, ...)
 4. [KeePassDx](https://www.keepassdx.com/#donation) - Android client for KeePass
 5. [F-Droid](https://f-droid.org/en/donate/) - FOSS Androind apps repository
+6. [Signal](https://www.signal.org/donate/#cryptocurrency)
