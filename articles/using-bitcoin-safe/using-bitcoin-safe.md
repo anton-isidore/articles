@@ -41,7 +41,7 @@ once in that spend chain, the whole chain can be attributed to you.
    - rather donate them to some charity
    - or if you are greedy fuck, swap them for Lightning on [fixedfloat.com](https://fixedfloat.com/) or similar
 
-### Use Lightning Network to spend
+### Use Lightning Network to spend ⚡
 
 #### Problem
 You have UTXO that you want to spend anonymously!
