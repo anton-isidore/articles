@@ -22,7 +22,7 @@
 - [Design of Identity Manager with Identity Generator](articles/design-of-Identity-manager-with-identity-generator/design-of-Identity-manager-with-identity-generator.mddesign-of-Identity-manager-with-identity-generator.md)
 - [Becoming Anonymous](articles/becoming-anonymous/becoming-anonymous.md) `[TODO / In progress]`
 - [Identity separation](articles/identity-separation/identity-separation.md) Technical tips, how-to keep your identities separated and not to doxx yoursef
-- [Using Bitcoin Safe](articles/using-bitcoin-safe/using-bitcoin-safe.md)
+- [Using Bitcoin Safe](articles/using-bitcoin-safe/using-bitcoin-safe.md) Pracitices on how to improve your privacy when using Bitcoin
 
 ### Other
 - [VPN](articles/VPN/VPN.md) `[TODO]`
