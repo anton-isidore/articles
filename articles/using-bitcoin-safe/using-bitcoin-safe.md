@@ -59,3 +59,4 @@ This will cost you ~1% (the unspendable amount in the channel) but **you will ke
 2. [savelife.in.ua](https://savelife.in.ua/en/donate-en/#donate-army-crypto)
 3. [Tasks](https://tasks.org/docs/donate/) - Great Android app for Todo-List
 4. [NewPipe](https://newpipe.net/donate/)- Youtube Client for Androind (no adds, download videos, playing on background, ...)
+5. [KeePassDx](https://www.keepassdx.com/#donation) - Android client for KeePass
