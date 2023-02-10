@@ -52,3 +52,8 @@ You have UTXO that you want to spend anonymously!
 3. Close the channel with the [1% of unspendable amount](https://github.com/lightning/bolts/blob/master/02-peer-protocol.md#rationale) to the address of some charity.
 
 This will cost you ~1% (the unspendable amount in the channel) but **you will keep your anonymity** and **you will boost your karma** by supportig some good charity.
+
+## Charities and good projects to donate to:
+
+1. [Tor](https://donate.torproject.org/cryptocurrency/)
+2. [savelife.in.ua](https://savelife.in.ua/en/donate-en/#donate-army-crypto)
