@@ -32,12 +32,15 @@ This is how a peel-chain can look like and if you are able to identify what is t
 once in that spend chain, the whole chain can be attributed to you.
 
 ## Solution
-1. Use Lightning Network whenever possible.
-2. Practice Coin Control, label your UTXos and **NEVER** consolidate.
+1. Use Lightning Network whenever possible
+2. Practice Coin Control, label your UTXos and **NEVER** consolidate
+3. Avoid creating a long peel chains
+   - Ideally spend whole UTXO with no change at all
+   - If possible, use Lightning to fill the missing amount or refund the overpayment
 4. If you end up with some small UTXOs, **do NOT mixed them with other coins!**
    - rather donate them to some charity
-   - or if you are greedy fuck, swap them for Lightning on [fixedfloat.com(https://fixedfloat.com/) or similar
-5. 
+   - or if you are greedy fuck, swap them for Lightning on [fixedfloat.com](https://fixedfloat.com/) or similar
+
 
 ### 2. Use Lightning Network
 
