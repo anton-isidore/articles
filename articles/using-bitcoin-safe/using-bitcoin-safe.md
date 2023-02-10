@@ -53,7 +53,7 @@ You have UTXO that you want to spend anonymously!
 
 This will cost you ~1% (the unspendable amount in the channel) but **you will keep your anonymity** and **you will boost your karma** by supportig some good charity.
 
-## Charities and good projects to donate to:
+## Charities and good projects to donate to
 
 ## Charities 
 1. [savelife.in.ua](https://savelife.in.ua/en/donate-en/#donate-army-crypto) 🇺🇦
