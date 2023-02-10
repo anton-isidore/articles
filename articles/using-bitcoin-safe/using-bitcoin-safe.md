@@ -20,11 +20,11 @@ Also keep in mind that if you are spending one UTXO over many transactions you a
 if you expose your identity to just one place in this chain, there is a big chance that all 
 
 ```
-1 BTC -> 0.05 BTC (buying a laptop)
-      -> 0.95 BTC (change)           -> 0.2  BTC (withdrawel in BTC ATM)
-                                     -> 0.75 BTC (change)                  -> 0.002 BTC (buy X)
-                                                                           -> 0.748 BTC (change)   -> 0.2   BTC (buy Y)
-                                                                                                   -> 0.548 BTC (change)   -> ...
+1 BTC -> 0.05 BTC (buy A)
+      -> 0.95 BTC (change)  -> 0.2  BTC (buy B)
+                            -> 0.75 BTC (change)  -> 0.002 BTC (buy C)
+                                                  -> 0.748 BTC (change)  -> 0.2   BTC (buy D)
+                                                                         -> 0.548 BTC (change)   -> ...
  ```
 
 This is how a peel-chain can look like and if you are able to identify what is spend and what is change 
