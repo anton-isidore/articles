@@ -55,8 +55,12 @@ This will cost you ~1% (the unspendable amount in the channel) but **you will ke
 
 ## Charities and good projects to donate to:
 
+## Charities 
+1. [savelife.in.ua](https://savelife.in.ua/en/donate-en/#donate-army-crypto) 🇺🇦
+ 
+## Projects
 1. [Tor](https://donate.torproject.org/cryptocurrency/)
-2. [savelife.in.ua](https://savelife.in.ua/en/donate-en/#donate-army-crypto)
-3. [Tasks](https://tasks.org/docs/donate/) - Great Android app for Todo-List
-4. [NewPipe](https://newpipe.net/donate/)- Youtube Client for Androind (no adds, download videos, playing on background, ...)
-5. [KeePassDx](https://www.keepassdx.com/#donation) - Android client for KeePass
+2. [Tasks](https://tasks.org/docs/donate/) - Great Android app for Todo-List
+3. [NewPipe](https://newpipe.net/donate/)- Youtube Client for Androind (no adds, download videos, playing on background, ...)
+4. [KeePassDx](https://www.keepassdx.com/#donation) - Android client for KeePass
+5. [F-Droid](https://f-droid.org/en/donate/) - FOSS Androind apps repository
