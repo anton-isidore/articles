@@ -41,6 +41,14 @@ once in that spend chain, the whole chain can be attributed to you.
    - rather donate them to some charity
    - or if you are greedy fuck, swap them for Lightning on [fixedfloat.com](https://fixedfloat.com/) or similar
 
-### 2. Use Lightning Network
+### 2. Use Lightning Network to spend
 
-### 3. Use Lightning Network
+## Problem
+You have UTXO that you want to spend anonymously!
+
+## Solution
+1. Open Lightning Channel to some big node using the UTXO
+2. Spend whole channel capacity
+3. Close the channel with the [1% of unspendable amount](https://github.com/lightning/bolts/blob/master/02-peer-protocol.md#rationale) to the address of some charity.
+
+This will cost you ~1% (the unspendable amount in the channel) but **you will keep your anonymity** and **you will boost your karma** by supportig some good charity.
