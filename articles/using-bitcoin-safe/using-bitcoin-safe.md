@@ -27,9 +27,9 @@ if you expose your identity to just one place in this chain, there is a big chan
                                                                          -> 0.548 BTC (change)   -> ...
  ```
 
-This is how a peel-chain can look like and if you are able to identify what is spend and what is change 
-(by amount, rounding, know merchant adddresses, ...) it is easy to identify such a chain a attribute it to 
-the person.
+This is how a peel-chain can look like and if you are able to identify what is the spend and what is the change 
+(by amount, rounding, known merchant adddresses, ...) it is easy to identify such chain and if you expose your identity just
+once in that spend chain, the whole chain can be attributed to you.
 
 ## Solution
 1. Use Lightning Network whenever possible.
