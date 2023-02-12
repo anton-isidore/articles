@@ -96,6 +96,6 @@ I don't believe it ever be solved. Here and then a new company pops up, it works
 
 #### Very, very dimm light at the end of the tunnel
 
-- [https://coindebit.io/](https://coindebit.io/) - It was great, but currently the company is not operational, they are promising to come back, but I doupt it `¯\_(ツ)_/¯`.
+- [https://coindebit.io/](https://coindebit.io/) - It was great, but currently the company is not operational, they are promising to come back, but I doubt it.
 - [https://thebitcoincompany.com/](https://thebitcoincompany.com/) - Not working over VPN, terrible UX (some browser from the app, copying of some weird code, ...)
 - [https://cakepay.com/](https://cakepay.com/) - `// Todo: haven't tried yet...`
