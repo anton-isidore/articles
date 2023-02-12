@@ -82,3 +82,20 @@ The is [Hushed](https://hushed.com/), but its is shit. Does not work on Degoogle
 - The IMEI can be changed.
 - There is a project that allows to changed IMEI every day or so: https://invisv.com/pgpp/
    - More info about project: https://www.usenix.org/conference/usenixsecurity21/presentation/schmitt
+
+### Sadness #8: No NoKYC Credit Cards providers
+
+This is **problably unsolvable** as Credit Cards lives in the first realm of coercion of the state.
+
+**Requirements**
+- Card is bought (topped up) with Bitcoin (ideally Lightning Network)
+- It must work over Tor or VPN (both aquisition of the card and the payment)
+- Card must worldwide accepted (usually prepaid card are not working at many stores)
+
+I don't believe it ever be solved. Here and then a new company pops up, it works for a while and they its shut down by card provider, bank or the regulator.
+
+#### Very, very dimm light at the end of the tunnel
+
+- [https://coindebit.io/](https://coindebit.io/) - It was great, but currently the company is not operational, they are promising to come back, but I doupt it `¯\_(ツ)_/¯`.
+- [https://thebitcoincompany.com/](https://thebitcoincompany.com/) - Not working over VPN, terrible UX (some browser from the app, copying of some weird code, ...)
+- [https://cakepay.com/](https://cakepay.com/) - `// Todo: haven't tried yet...`
