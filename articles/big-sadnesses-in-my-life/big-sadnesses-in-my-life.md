@@ -83,7 +83,7 @@ The is [Hushed](https://hushed.com/), but its is shit. Does not work on Degoogle
 - There is a project that allows to changed IMEI every day or so: https://invisv.com/pgpp/
    - More info about project: https://www.usenix.org/conference/usenixsecurity21/presentation/schmitt
 
-### Sadness #8: No NoKYC Credit Cards providers
+### Sadness #8: There are no reliable NoKYC Credit Cards providers
 
 This is **problably unsolvable** as Credit Cards lives in the first realm of coercion of the state.
 
@@ -92,7 +92,7 @@ This is **problably unsolvable** as Credit Cards lives in the first realm of coe
 - It must work over Tor or VPN (both aquisition of the card and the payment)
 - Card must worldwide accepted (usually prepaid card are not working at many stores)
 
-I don't believe it ever be solved. Here and then a new company pops up, it works for a while and they its shut down by card provider, bank or the regulator.
+I don't believe it will be ever reliably solved. Here and then a new company pops up, it works for a while and they its shut down by card provider, bank or the regulator.
 
 #### Very, very dimm light at the end of the tunnel
 
