@@ -5,7 +5,7 @@
 - [Privacy: The browsing](articles/privacy-the-browsing/privacy-the-browsing.md)
 
 ### Communication, Social Networks
-- [Nostr: The Social Network Revolution](articles/articles/nostr-the-social-network-revolution/nostr-the-social-network-revolution.md) (🛠️ In progress 👷)
+- [Nostr: The Social Network Revolution](articles/nostr-the-social-network-revolution/nostr-the-social-network-revolution.md) (🛠️ In progress 👷)
 
 ### Selfhosting, Independence, Antifragility
 - [Independence: Self-hosted, encrypted file-sharing & backups](articles/independence-self-hosted-encrypted-file-sharing-backups/independence-self-hosted-encrypted-file-sharing-backups.md)
