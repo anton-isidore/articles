@@ -17,6 +17,6 @@ The list of available relays that you can buy is available on [https://relay.exc
 - `wss://bitcoinmaximalists.online`
 
 ### Sources
-- [https://nostr.com/](Official Nostr page)
-- [https://relay.exchange/](Payed Relay Exchange) 
-- [https://github.com/nostr-protocol/nostr](Nostr Protocol Specification on Gihub)
+- [Official Nostr page](https://nostr.com/)
+- [Payed Relay Exchange](https://relay.exchange/)
+- [Nostr Protocol Specification on Gihub](https://github.com/nostr-protocol/nostr)
