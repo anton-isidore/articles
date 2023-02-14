@@ -9,6 +9,10 @@ Nostr is the [https://github.com/nostr-protocol/nostr](protocol). Not the Social
 5. **Noone can cancel your account.** As long as you keep your private key secret, you OWN your idenity (the public key).
 6. **Nostr is permittionleass.** There is no sign-in, no gatekeeper to let you in. Evenryone can create an identity just by generating keys.
 
+### Wheere to get people to follow
+
+1. [nostr.directory](https://www.nostr.directory/) - Find your twitter follows on  nostr
+
 ### Solution to the Spam Problem: The payed relay
 
 Explanation why you need payed relay and how they solve the Spam Problem: [https://relay.exchange/why-pay-2-relay/](Why use Paid Relays?).
