@@ -4,9 +4,12 @@
 ### Privacy Online, Browsing
 - [Privacy: The browsing](articles/privacy-the-browsing/privacy-the-browsing.md)
 
+### Communication, Social Networks
+- [Nostr: The Social Network Revolution](articles/articles/nostr-the-social-network-revolution/nostr-the-social-network-revolution.md) (🛠️ In progress 👷)
+
 ### Selfhosting, Independence, Antifragility
 - [Independence: Self-hosted, encrypted file-sharing & backups](articles/independence-self-hosted-encrypted-file-sharing-backups/independence-self-hosted-encrypted-file-sharing-backups.md)
-- [Antifragility: Decentralize yourself](articles/antifragility-decentralize-yourself/antifragility-decentralize-yourself.md) `[TODO]`
+- [Antifragility: Decentralize yourself](articles/antifragility-decentralize-yourself/antifragility-decentralize-yourself.md) (🛠️ In progress 👷)
 
 ### Financial Soverignity
 1. [Financially sovereign: Bitcoin Full Node (part 1)](articles/financiall-sovereign-bitcoin-full-node-part-1/financiall-sovereign-bitcoin-full-node-part-1.md)
@@ -25,5 +28,5 @@
 - [Using Bitcoin Safe](articles/using-bitcoin-safe/using-bitcoin-safe.md) Pracitices on how to improve your privacy when using Bitcoin
 
 ### Other
-- [VPN](articles/VPN/VPN.md) `[TODO]`
+- [VPN](articles/VPN/VPN.md) (🛠️ In progress 👷)
 - [Bitcoin anonymously](articles/bitcoin-anonymously/bitcoin-anonymously.md)
