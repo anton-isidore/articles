@@ -13,6 +13,10 @@ Nostr is the [https://github.com/nostr-protocol/nostr](protocol). Not the Social
 
 1. [nostr.directory](https://www.nostr.directory/) - Find your twitter follows on  nostr
 
+### To which relays I should connect
+
+- Find recommandation on [](https://nostrgraph.net/relay_recommendation#)
+
 ### Solution to the Spam Problem: The payed relay
 
 Explanation why you need payed relay and how they solve the Spam Problem: [https://relay.exchange/why-pay-2-relay/](Why use Paid Relays?).
