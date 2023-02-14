@@ -15,6 +15,7 @@ The list of available relays that you can buy is available on [https://relay.exc
 - `wss://eden.nostr.land`
 - `wss://bitcoiner.social`
 - `wss://bitcoinmaximalists.online`
+- `wss://nostr.gives.africa`
 
 ### Sources
 - [Official Nostr page](https://nostr.com/)
