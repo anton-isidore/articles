@@ -5,7 +5,7 @@ Nostr is the [https://github.com/nostr-protocol/nostr](protocol). Not the Social
 2. Nostr is local, **you decides what you fetch from relays** (folows are just filters used to fetch data). There is **no evil Algorythm that gives you stuff you don't want** to manipulate you mind.
 
 
-### Solution to the Spam Problem: They payed relays
+### Solution to the Spam Problem: The payed relay
 
 Explanation why you need payed relay and how they solve the Spam Problem: [https://relay.exchange/why-pay-2-relay/](Why use Paid Relays?).
 
