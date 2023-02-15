@@ -110,4 +110,5 @@ It is possible to raise chances that they "forgot" to check your documents by:
 
 1. Using small family run accomodations
 2. Doing remote check-in (you don't talk to any person) so it is hard to enforce the actual document check
+3. Motivate them to not ask question by paying with cash and not wanting the receipt
 
