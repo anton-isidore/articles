@@ -100,3 +100,6 @@ I don't believe it will be ever reliably solved. Here and then a new company pop
 - [https://thebitcoincompany.com/](https://thebitcoincompany.com/) - Not working over VPN, terrible UX (some browser from the app, copying of some weird code, ...)
 - [https://cakepay.com/](https://cakepay.com/) - `// Todo: haven't tried yet...`
 - ~[https://paywithmoon.com/](https://paywithmoon.com/)~ - No longer working (["termination of our contract with the card’s Issuing Bank"](https://twitter.com/paywithmoon/status/1624548553598111746?cxt=HHwWhMC4mayTx4stAAAA)), they are promising to come back, but I doubt it.
+
+### Saddness #9: All hotels and accomodations are KYC
+In most countries (espetialy in the socialist EU) there is law that requires all hotels, etc. report everyone to the police. So they require IDs/Passports to do KYC.
