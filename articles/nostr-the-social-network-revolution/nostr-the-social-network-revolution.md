@@ -15,7 +15,7 @@ Nostr is the [https://github.com/nostr-protocol/nostr](protocol). Not the Social
 
 ### To which relays I should connect
 
-- Find recommandation on [](https://nostrgraph.net/relay_recommendation#)
+- Find recommandation on [nostrgraph.net/relay_recommendation](https://nostrgraph.net/relay_recommendation)
 
 ### Solution to the Spam Problem: The payed relay
 
