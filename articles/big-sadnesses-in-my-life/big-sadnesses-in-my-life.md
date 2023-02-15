@@ -103,3 +103,11 @@ I don't believe it will be ever reliably solved. Here and then a new company pop
 
 ### Saddness #9: All hotels and accomodations are KYC
 In most countries (espetialy in the socialist EU) there is law that requires all hotels, etc. report everyone to the police. So they require IDs/Passports to do KYC.
+
+There is AFAIK no way around it.
+
+It is possible to raise chances that they "forgot" to check your documents by:
+
+1. Using small family run accomodations
+2. Doing remote check-in (you don't talk to any person) so it is hard to enforce the actual document check
+
