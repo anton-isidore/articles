@@ -104,7 +104,7 @@ I don't believe it will be ever reliably solved. Here and then a new company pop
 ### Saddness #9: All hotels and accomodations are KYC
 In most countries (espetialy in the socialist EU) there is law that requires all hotels, etc. report everyone to the police. So they require IDs/Passports to do KYC.
 
-There is AFAIK no way around it.
+**There is AFAIK no way around it.**
 
 It is possible to raise chances that they "forgot" to check your documents by:
 
@@ -112,3 +112,18 @@ It is possible to raise chances that they "forgot" to check your documents by:
 2. Doing remote check-in (you don't talk to any person) so it is hard to enforce the actual document check
 3. Motivate them to not ask question by paying with cash and not wanting the receipt
 
+### Saddness #10: Services requiring you to Sing-In with the email
+
+This is cancer of the web. They try to get your real email and get your identity and ability to spam you. 
+
+The think is, **they dont need it**. You can perfectly implement Sign-In with 
+
+1. Just *any* username and password
+2. Use [Lightning Network Auth](https://github.com/lnurl/luds/blob/luds/04.md)
+3. Use public-private key pair in same way the [Nostr](https://nostr.com/) does it
+
+But do NOT require my email. You don't need it!
+
+#### "Solutions"
+- Email alias providers alike [simplelogin.io](https://simplelogin.io/) 
+- Create and manage ton of email addresses that you create for each service ([proton.me](proton.me/) can be used for this)
