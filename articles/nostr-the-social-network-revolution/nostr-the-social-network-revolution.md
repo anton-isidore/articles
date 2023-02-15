@@ -1,13 +1,13 @@
 ## Nostr: The Social Network Revolution
 Nostr is the [https://github.com/nostr-protocol/nostr](protocol). Not the Social Network itself. Nostr alows you to send events. Everything there is event. Applications (like Social Networks) are then build on top of that.
 
-### Why it is a revolution?
+### Why is Nostr revolutionary?
 
-1. **Noone can take it down.** There is no central server, only clients and relays. If someone take a realy down, no problem, you use a different one.
+1. **Noone can take it down.** There is no central server, only clients and relays. If someone take a relay down, no problem, you use a different one.
 2. **There is no authority to censor you.** Yes, relay may kick you out, it's same as in the point 1 .above, you just use different one.
-3. **You decides what you consume..** You queries the relays for data and it's up to you (or your client) to display them in any form. There is **no evil Algorythm that gives you stuff you don't want** to manipulate you mind.
-5. **Noone can cancel your account.** As long as you keep your private key secret, you OWN your idenity (the public key).
-6. **Nostr is permittionleass.** There is no sign-in, no gatekeeper to let you in. Evenryone can create an identity just by generating keys.
+3. **You decides what you consume..** You queries the relays for data and it's up to you (or your client) to display them in any form. There is **no evil Algorithm that gives you stuff you don't want** to manipulate you mind.
+5. **No-one can cancel your account.** As long as you keep your private key secret, you OWN your idenity (the public key).
+6. **Nostr is permission-less.** There is no sign-in, no gatekeeper to let you in. Everyone can create an identity just by generating keys.
 
 ### Wheere to get people to follow
 
