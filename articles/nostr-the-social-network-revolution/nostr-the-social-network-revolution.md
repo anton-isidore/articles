@@ -35,7 +35,7 @@ The list of available relays that you can buy is available on [https://relay.exc
 - Android: https://github.com/vitorpamplona/amethyst
 - Android: https://github.com/KoalaSat/nostros
 
-List of clients on offical page: https://nostr.how/clients
+List of clients on offical page: [https://nostr.how/clients](https://nostr.com/clients)
 
 ### Sources
 - [Official Nostr page](https://nostr.com/)
