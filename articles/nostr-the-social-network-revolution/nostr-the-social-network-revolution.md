@@ -29,6 +29,14 @@ The list of available relays that you can buy is available on [https://relay.exc
 - `wss://bitcoinmaximalists.online`
 - `wss://nostr.gives.africa`
 
+### Clients I have tested
+- Desktop: https://iris.to/
+- Desktop: https://snort.social
+- Android: https://github.com/vitorpamplona/amethyst
+- Android: https://github.com/KoalaSat/nostros
+
+List of clients on offical page: https://nostr.how/clients
+
 ### Sources
 - [Official Nostr page](https://nostr.com/)
 - [Payed Relay Exchange](https://relay.exchange/)
