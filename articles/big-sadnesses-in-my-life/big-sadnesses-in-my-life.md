@@ -85,7 +85,7 @@ The is [Hushed](https://hushed.com/), but its is shit. Does not work on Degoogle
    - More info about project: https://www.usenix.org/conference/usenixsecurity21/presentation/schmitt
 - [Banana phone & Changing IMEI](https://wiki.lunardao.net/imei.html)
 
-### Sadness #8: There are no reliable NoKYC Credit Cards providers
+### Sadness #9: There are no reliable NoKYC Credit Cards providers
 
 This is **problably unsolvable** as Credit Cards lives in the first realm of coercion of the state.
 
@@ -103,7 +103,7 @@ I don't believe it will be ever reliably solved. Here and then a new company pop
 - [https://cakepay.com/](https://cakepay.com/) - `// Todo: haven't tried yet...`
 - ~[https://paywithmoon.com/](https://paywithmoon.com/)~ - No longer working (["termination of our contract with the card’s Issuing Bank"](https://twitter.com/paywithmoon/status/1624548553598111746?cxt=HHwWhMC4mayTx4stAAAA)), they are promising to come back, but I doubt it.
 
-### Saddness #9: All hotels and accomodations are KYC
+### Saddness #10: All hotels and accomodations are KYC
 In most countries (espetialy in the socialist EU) there is law that requires all hotels, etc. report everyone to the police. So they require IDs/Passports to do KYC.
 
 **There is AFAIK no way around it.**
@@ -114,7 +114,7 @@ It is possible to raise chances that they "forgot" to check your documents by:
 2. Doing remote check-in (you don't talk to any person) so it is hard to enforce the actual document check
 3. Motivate them to not ask question by paying with cash and not wanting the receipt
 
-### Saddness #10: Services requiring you to Sing-In with the email
+### Saddness #11: Services requiring you to Sing-In with the email
 
 This is cancer of the web. They try to get your real email and get your identity and ability to spam you. 
 
