@@ -83,6 +83,7 @@ The is [Hushed](https://hushed.com/), but its is shit. Does not work on Degoogle
 - The IMEI can be changed.
 - There is a project that allows to changed IMEI every day or so: https://invisv.com/pgpp/
    - More info about project: https://www.usenix.org/conference/usenixsecurity21/presentation/schmitt
+- [Banana phone & Changing IMEI](https://wiki.lunardao.net/imei.html)
 
 ### Sadness #8: There are no reliable NoKYC Credit Cards providers
 
