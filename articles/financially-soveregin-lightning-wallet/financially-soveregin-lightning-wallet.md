@@ -12,7 +12,7 @@ The best wallet is [OBV](https://sbw.app/) made by [Anton Kumaigorodski](https:/
 ### Using your Full Node
 There is [Zeus⚡](https://zeusln.app/). It works over Tor🧅. You just connect to your node, and you can pay from it.
 
-> **IMPORTANT**: This can be security issue for you node. If you have significant amount of money on your node, anyone who gets acceess to your phone can steal it!
+> ❗❗❗ **IMPORTANT**: This can be security issue for you node. If you have significant amount of money on your node, anyone who gets acceess to your phone can steal it! ❗❗❗
 
 ### Sources
 - https://darthcoin.substack.com/p/obw-open-bitcoin-wallet
