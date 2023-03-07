@@ -6,8 +6,8 @@ Sovereign Individual does spends his/hers money without permission, so all custo
 ### Best Mobile Wallet
 The best wallet is [OBV](https://sbw.app/) made by [Anton Kumaigorodski](https://twitter.com/akumaigorodski) who sadly, after he Ruzzian invasion into Ukraine, turned his attention somewhere else. So project became abandoned. But there is promissing fork of [OBW - The Open Bitcoin Wallet](https://github.com/nbd-wtf/obw). 
 
-- 🤖 Android only. (Sorry, prisoners of the Apple's walled garden.)
-- However it [still waits for its release on F-Droid](https://github.com/nbd-wtf/obw/issues/17).
+- 🤖 Android only (sorry, prisoners of the Apple's walled garden)
+- However it [still waits for its release on F-Droid](https://github.com/nbd-wtf/obw/issues/17)
 
 ### Using your Full Node
 There is [Zeus⚡](https://zeusln.app/). It works over Tor 🧅. You just connect to your node, and you can pay from it. See [documentation](https://docs.zeusln.app/category/connecting-zeus) for how to connect to it from various node solutions.
