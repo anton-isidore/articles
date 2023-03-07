@@ -14,7 +14,7 @@
 ### Financial Soverignity
 1. [Financially sovereign: Bitcoin Full Node (part 1)](articles/financiall-sovereign-bitcoin-full-node-part-1/financiall-sovereign-bitcoin-full-node-part-1.md)
 2. [Financially sovereign: Building the Bank](articles/financially-soveregin-building-the-bank/financially-soveregin-building-the-bank.md)
-3. [Financially sovereign: Lightining Wallet to spend your Bitcoin](articles/financially-soveregin-lightning-wallet/financially-soveregin-lightning-wallet.md)
+3. [Financially sovereign: Lightining Wallet to spend your Bitcoin](articles/financially-soveregin-lightning-wallet/financially-soveregin-lightning-wallet.md) (🛠️ In progress 👷)
 
 ### De-googlification
 1. [F-Droid: You don't need Google for all your apps](articles/f-droid-you-dont-need-google-for-all-your-apps/f-droid-you-dont-need-google-for-all-your-apps.md)
