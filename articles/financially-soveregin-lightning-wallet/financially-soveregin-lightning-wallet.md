@@ -10,7 +10,7 @@ The best wallet is [OBV](https://sbw.app/) made by [Anton Kumaigorodski](https:/
 - However it [still waits for its release on F-Droid](https://github.com/nbd-wtf/obw/issues/17).
 
 ### Using your Full Node
-There is [Zeus⚡](https://zeusln.app/). It works over Tor 🧅. You just connect to your node, and you can pay from it.
+There is [Zeus⚡](https://zeusln.app/). It works over Tor 🧅. You just connect to your node, and you can pay from it. See [documentation](https://docs.zeusln.app/category/connecting-zeus) for how to connect to it from various node solutions.
 
 > ❗❗❗ **IMPORTANT**: This can be security issue for you node. If you have significant amount of money on your node, anyone who gets acceess to your phone can steal it! ❗❗❗
 
