@@ -47,6 +47,8 @@ Problem is, that TREZOR Password manager sucks. There is no Android support. It 
 - TREZOR supports [FIDO2](https://fidoalliance.org/specs/fido-v2.0-rd-20180702/fido-client-to-authenticator-protocol-v2.0-rd-20180702.html#sctn-hmac-secret-extension) and there is [an issue for implementing it into KeepassXC](https://github.com/keepassxreboot/keepassxc/issues/3560)
 - TREZOR also supports 2FA over U2F standart (see [wiki](https://wiki.trezor.io/User_manual:Two-factor_Authentication_with_U2F) or [blog-post](https://blog.trezor.io/secure-two-factor-authentication-with-trezor-u2f-e940fd5a60af)).
 
+I have even annoucned $300 bounty 💰 to imlement this: https://github.com/keepassxreboot/keepassxc/issues/3560#issuecomment-1566742219
+
 ### Sadness #6: Missing FIDO2 support in various servicies
 Why FIDO2? Read [this article](https://blog.trezor.io/make-passwords-a-thing-of-the-past-a402745750dc).
 
