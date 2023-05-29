@@ -101,8 +101,8 @@ I don't believe it will be ever reliably solved. Here and then a new company pop
 #### Very, very dimm light at the end of the tunnel
 
 - ~[https://coindebit.io/](https://coindebit.io/)~ - It was great, but currently the company is not operational (["we transition to a card issuing provider who can better support our model"](https://www.coindebit.io/announcement)), they are promising to come back, but I doubt it.
-- [https://thebitcoincompany.com/](https://thebitcoincompany.com/) - Not working over VPN, terrible UX (some browser from the app, copying of some weird code, ...). They uses https://www.prepaiddigitalsolutions.com/ as provider, which is shit.
-- [https://cakepay.com/](https://cakepay.com/) - It works, but they support only Bitcoin on-chain and Monero, so you have to use service like [FixedFloat](https://fixedfloat.com/) to swap Lightning to Monero. They uses https://www.prepaiddigitalsolutions.com/ as provider, which is shit.
+- [https://thebitcoincompany.com/](https://thebitcoincompany.com/) - Not working over VPN, terrible UX (some browser from the app, copying of some weird code, ...). They use [prepaiddigitalsolutions.com]( https://www.prepaiddigitalsolutions.com) as provider, which is shit.
+- [https://cakepay.com/](https://cakepay.com/) - It works, but they support only Bitcoin on-chain and Monero, so you have to use service like [FixedFloat](https://fixedfloat.com/) to swap Lightning to Monero. They use [prepaiddigitalsolutions.com]( https://www.prepaiddigitalsolutions.com) as provider, which is shit.
 - ~[https://paywithmoon.com/](https://paywithmoon.com/)~ - No longer working (["termination of our contract with the card’s Issuing Bank"](https://twitter.com/paywithmoon/status/1624548553598111746?cxt=HHwWhMC4mayTx4stAAAA)), they are promising to come back, but I doubt it.
 
 Many card providers are just re-selling cards from https://www.prepaiddigitalsolutions.com/ as provider, which is shit (no 3D-Secure, rejected by many vendors, terrible UX, ...)
