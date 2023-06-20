@@ -15,7 +15,7 @@ And thats it! You have won small battle against Google. You haven't give them yo
 
 ## Connect calendar to your Phone
 
-To add Google calendar to Android Phone (obviously the de-googled one). You need [DAVx5](https://www.davx5.com/) app ([available on F-Droid](https://f-droid.org/en/packages/at.bitfire.davdroid/))
+To add Google calendar to Android Phone (obviously the de-googled one). You need [DAVx5](https://www.davx5.com/) app ([available on F-Droid](https://f-droid.org/en/packages/at.bitfire.davdroid/)).
 
 1. If you use 2FA on your Google Account you have to [create app password](https://support.google.com/accounts/answer/185833?hl=en).
 2. If you don't use 2FA you can just enable [allow less secure apps](https://myaccount.google.com/lesssecureapps)
