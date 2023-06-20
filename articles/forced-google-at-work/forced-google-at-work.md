@@ -10,7 +10,8 @@ So the trick is:
 - Enable 2FA with phone number that you get from [sms4sats.com](https://sms4sats.com/) or any other service that will work. You maybe need to try couple of numbers before you get one that works.
 - Then go to Account -> Security -> 2-Step Verification and add the Authenticator App (thats the [OTP](https://en.wikipedia.org/wiki/One-time_password)). Use any OTP app on your phone that is secure and private (obviously **NOT** the Google Authenticator).
 - Once it is sucessfully set-up, **remove** the phone 2FA option.
-- 🎉
+
+And thats it! You have won small battle against Google. You haven't give them your number. 🎉
 
 ## ConnectCalendar to your Phone
 
