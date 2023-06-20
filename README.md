@@ -20,6 +20,7 @@
 1. [F-Droid: You don't need Google for all your apps](articles/f-droid-you-dont-need-google-for-all-your-apps/f-droid-you-dont-need-google-for-all-your-apps.md)
 2. [Android without Google](articles/android-without-google/android-without-google.md)
 3. [De-Googlification](articles/de-googlification/de-googlification.md)
+4. [What to do, if your client (employer) forces you to use Google](articles/forced-google-at-work/forced-google-at-work.md)
 
 ## Operational Security
 ### Identity separation
