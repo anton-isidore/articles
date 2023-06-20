@@ -25,5 +25,5 @@ To add Google calendar to Android Phone (obviously the de-googled one). You need
 6. Username is your email (`your.email@company.com`)
 7. If you use 2FA, password is the app's password from step 1. Otherwise is's your password.
 
-Finally, you then just enable your calendar to be synced and you should see it in your Calendar App (my recomandation is [Etal](https://github.com/Etar-Group/Etar-Calendar).
+Finally, you then just enable your calendar to be synced and you should see it in your Calendar App (my recomandation is [Etar](https://github.com/Etar-Group/Etar-Calendar)).
 
