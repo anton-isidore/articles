@@ -1,6 +1,6 @@
 # My client or employer forces me to use Google
 
-If your client or employer user Google Suite and you are unable to change then or avoid using it. Here is what to do:
+If your client or employer user Google Suite and you are unable to leave them or you are unable to avoid using it. Here is what to do:
 
 ## Company enforces 2FA
 
