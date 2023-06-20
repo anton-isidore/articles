@@ -98,10 +98,7 @@ I chose the [Etar](https://f-droid.org/en/packages/ws.xsoh.etar/) app and for da
 
 [DAVx5](https://f-droid.org/en/packages/at.bitfire.davdroid/) can be used for synchronization with external Google Calendar (for example the company\'s).
 
-To setup it:
-
-1. Base URL is `https://www.google.com/calendar/dav/your.email@company.com/events/`.
-2. Option [allow less secure apps](https://myaccount.google.com/lesssecureapps) needs to be enabled.
+- Guide how o set it up: [My client or employer forces me to use Google](articles/edit/main/articles/forced-google-at-work/forced-google-at-work.md)
 
 [ICSx5](https://f-droid.org/en/packages/at.bitfire.icsdroid/) can be used for synchronization with external ICS links (for example [Facebook Events](https://www.it-support.com.au/how-to-import-facebook-calendar-to-google-calendar-and-outlook/2018/03/)).
 
