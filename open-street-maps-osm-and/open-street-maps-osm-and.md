@@ -18,5 +18,7 @@ At OsmAnd you can (and should) download slopes, hillshades and contour lines.
 
 You just go to Download Maps, then you select region and beside standart map you also download Contour lines, hillshades and slopes
 
-![](1.jpg)
-![](2.jpg)
+<p float="left">
+   <img src="1.jpg" width="300" />
+   <img src="2.jpg" width="300" />
+</p>
