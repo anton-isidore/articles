@@ -18,7 +18,7 @@ At OsmAnd you can (and should) download slopes, hillshades and contour lines.
 
 You just go to Download Maps, then you select region and beside standart map you also download Contour lines, hillshades and slopes
 
-<p float="left">
+<p float="left" align="center">
    <img src="1.jpg" width="300" />
    <img src="2.jpg" width="300" />
 </p>
@@ -33,7 +33,8 @@ Go to Configure map → Select profile you want to edit → scroll all the way t
 
 You can also turn on some extra stuff there as well.
 
-<p float="left">
+<p float="left" align="center">
    <img src="3.jpg" width="300" />
    <img src="4.jpg" width="300" />
+   <img src="5.jpg" width="300" />
 </p>
