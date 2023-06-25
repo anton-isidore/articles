@@ -2,7 +2,7 @@
 
 Start using [OpenStreetMaps](https://www.openstreetmap.org/). The map is much better then GoogleMaps, I have GMaps only to check restaurant, which are not covered well on OpenStreetMaps.
 
-OpenStreetMaps is just a big databse (that you can actually edit, but that's a topic for another article). So you need a client to see the actual map, and the best client is [OsmAnd](https://osmand.net/)
+OpenStreetMaps is just a big databse (that you can actually edit, but that's a topic for another article). So you need a client to see the actual map, and the best client is [OsmAnd](https://osmand.net/).
 
 1. Download [OsmAnd](https://f-droid.org/packages/net.osmand.plus/) (it's free, iOS sheeps and Google simps have to pay)
 2. It's local first app, so you have to download the map of the area. 
