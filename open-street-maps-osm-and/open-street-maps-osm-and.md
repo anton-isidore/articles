@@ -12,7 +12,7 @@ Start using OpenStreetMaps. The map is much better then GoogleMaps, I have GMaps
 
 More tips in upcoming posts.
 
------- 
+### Slopes & Contour Lines 
 
 At OsmAnd you can (and should) download slopes, hillshades and contour lines.
 
@@ -21,4 +21,19 @@ You just go to Download Maps, then you select region and beside standart map you
 <p float="left">
    <img src="1.jpg" width="300" />
    <img src="2.jpg" width="300" />
+</p>
+
+## More Details
+
+In OsmAnd it is very useful to display more details. I have it on for all profiles (walk/car/bike/browse).
+
+You have to set this on for every profile you want this.
+
+Go to Configure map → Select profile you want to edit → scroll all the way to the bottom → Details → Turn on the More details. 
+
+You can also turn on some extra stuff there as well.
+
+<p float="left">
+   <img src="3.jpg" width="300" />
+   <img src="4.jpg" width="300" />
 </p>
