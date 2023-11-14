@@ -82,6 +82,16 @@ For Reddit there is [Slide](https://f-droid.org/en/packages/me.ccrama.redditslid
 
 The [OpenBoard](https://f-droid.org/en/packages/org.dslul.openboard.inputmethod.latin/) supports multiple languages for corrections and is quite clean and minimalistic.
 
+However, I did not found a good keybooad that would have:
+- swipe
+- auto-correct
+- both above in multi-language so I don't need to manually switch languages
+- voice input in multi-language
+- fully offline
+- open source
+
+So I stick with GBoard. In the GrapheneOS I disable the network (so it cannot send anything out). **IMPORTANT**: The internet must be enabled for breef period for GBoard to initiale. Then you have to revoke the network permission and **never turn it on again**.
+
 ### Loyalty Cards
 
 There is [Loyalty Card Keychain](https://f-droid.org/en/packages/protect.card_locker/) that is based on scanning the barcode or QR code and not the full photos.
