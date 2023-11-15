@@ -24,7 +24,7 @@ Also the [KeepassXC](https://keepassxc.org) supports adding OTP into the databas
 
 ## Browser
 
-For desktop I have completely switched to [Firefox](https://www.mozilla.org/en-US/firefox/new/). On Android I am using [DuckDuckGo Privacy Browser](https://f-droid.org/en/packages/com.duckduckgo.mobile.android/ and [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) which is Firefox fork available on F-Droid.
+For desktop I have completely switched to [Firefox](https://www.mozilla.org/en-US/firefox/new/). On Android I am using [DuckDuckGo Privacy Browser](https://f-droid.org/en/packages/com.duckduckgo.mobile.android/) and [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) which is Firefox fork available on F-Droid.
 
 Do not forget to enable [DNS over HTTPS](https://support.mozilla.org/en-US/kb/firefox-dns-over-https#w_manually-enabling-and-disabling-dns-over-https).
 
