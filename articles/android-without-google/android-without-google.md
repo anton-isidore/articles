@@ -125,6 +125,10 @@ Some apps are not working on a de-googlified phone but they have good web interf
 
 More info about apps I find useful (that are available on <span nowrap="nowrap" style="white-space:">F-Droid</span>) can be found in [my previous article](../f-droid-you-dont-need-google-for-all-your-apps/f-droid-you-dont-need-google-for-all-your-apps.md).
 
+## Text-to-speach and Speach-to-text
+- Text-to-speach: https://rhvoice.org/ (you need to enable it in the android settings, to use it in the whole Android)
+- Speach-to-text: https://voiceinput.futo.org/
+
 ## Conclusion
 
 Long story short: **It works!** I have used the degooglified phone for a few months now and I live the same life as before. Some compromises were tough to make, but for the privacy that I have regained, it was definitely worth it.
