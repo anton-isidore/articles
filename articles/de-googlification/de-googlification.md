@@ -77,7 +77,7 @@ For me replacing Youtube was in principle impossible. There are so many good con
 
 To disconnect myself from Google (to stop providing my data to Google) I replaced the Google Youtube app with [NewPipe](https://newpipe.schabi.org/). NewPipe is open-source available via [F-Droid](https://www.f-droid.org/). I have been using this app before because it supports audio-only video playing and video downloading. The final step was to just [export all subscriptions from Youtube](https://www.youtube.com/subscription_manager), import them to NewPipe, and then back up NewPipe export in Git.
 
-Sadly, I was not able to find any useful alternative for the desktop. Hopefully, there [will be a NewPipe desktop app](https://github.com/TeamNewPipe/NewPipe/issues/1051) one day.
+For desktop, there is greate [https://freetubeapp.io/](FreeTubeApp). It is basically NewPipe for Dekstop. It has download, no Ads, ...
 
 Last tip is [invidio.us](https://invidio.us/) a Youtube proxy allows you to browse videos even they are somehow restricted.
 
