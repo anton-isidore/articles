@@ -10,6 +10,7 @@
 ### Selfhosting, Independence, Antifragility
 - [Independence: Self-hosted, encrypted file-sharing & backups](articles/independence-self-hosted-encrypted-file-sharing-backups/independence-self-hosted-encrypted-file-sharing-backups.md)
 - [Antifragility: Decentralize yourself](articles/antifragility-decentralize-yourself/antifragility-decentralize-yourself.md) (🛠️ In progress 👷)
+- [Long Range Radio](articles/long-range-radio/long-range-radio.md) (🛠️ In progress 👷)
 
 ### Financial Soverignity
 1. [Financially sovereign: Bitcoin Full Node (part 1)](articles/financiall-sovereign-bitcoin-full-node-part-1/financiall-sovereign-bitcoin-full-node-part-1.md)
