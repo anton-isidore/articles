@@ -29,11 +29,9 @@ The [Escapepod](https://f-droid.org/en/packages/org.y20k.escapepod/) is a no-clu
 
 The [AntennaPod](https://f-droid.org/en/packages/de.danoeh.antennapod/) is full featured app for full podcasting experience. 
 
-### Simple Gallery
+### Fosiffy Gallery
 
-Despite the name, the [Simple Gallery](https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/) is fully featured with smooth UI. I have found this app as a fitting replacement for Google Photos which I don\'t trust.
-
-The app is from the [Simple Mobile Tools](https://www.simplemobiletools.com/) project that aims to create all the basic apps to replace the bloated pre-installed crap you got with the phone. Sadly, not all of their apps are on F-Droid and the quality of their apps varies. I would say the gallery is the best one.
+[Fossify Gallery](https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/) is fully featured with smooth UI. I have found this app as a fitting replacement for Google Photos which I don\'t trust. The app is from the [Fossify Fork of Simple Mobile Tools]([https://www.simplemobiletools.com/](https://github.com/FossifyOrg)). I suggest you tu check also the other apps.
 
 ### OsmAnd~ (Maps)
 This [maps-app](https://f-droid.org/en/packages/net.osmand.plus/) is quite a good replacement for Google Maps. Those maps works offline (you have to download them).
