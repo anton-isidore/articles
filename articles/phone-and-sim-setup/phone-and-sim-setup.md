@@ -22,10 +22,10 @@ But camping public wifis is not very convinient. But having a SIM card in the Pi
 5. Connect your Pixel Phone to this router over wifi
 
 ### Important opsec stuff to do   
-1. Buy all hardware and SIMs anonymously
+1. Buy all hardware and SIMs anonymously, pay for it anonymously
 2. Swap SIMS regullary
 3. Avoid same location patterns with different SIMs, it may deanonymise you. **This is super hard to do right, so if you want to do hight profile shit, never have phone on you!**
-4. 
+4. When swapping SIM and IMEI, move to different location. Same issue as point 3.
 
 ### Sources
 - https://nethemba.com/how-to-maximize-anonymity-when-accessing-the-internet-on-mobile/
