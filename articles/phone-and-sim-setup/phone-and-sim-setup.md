@@ -22,13 +22,13 @@ But camping public wifis is not very convinient. But having a SIM card in the Pi
 1. Buy the [Mudi 4G LTE GL-E750](https://www.gl-inet.com/products/gl-e750/) router (anonymously!)
 2. Buy anonymous SIM card (in some countries where there are legal) with data
 3. Install [Blue Merle](https://github.com/srlabs/blue-merle) plugin into your Mudi Router
-4. CHnage IMEI and insert the SIM
+4. Chnage IMEI and insert the SIM
 5. Connect your Pixel Phone to this router over wifi
 
 ### Important opsec stuff to do   
 1. Buy all hardware and SIMs anonymously, pay for it anonymously
-2. Swap SIMS regullary
-3. Avoid same location patterns with different SIMs, it may deanonymise you. **❗This is super hard to do right, so if you want to do hight profile shit, never have phone on you❗**
+2. Swap SIMs regullary (and change IMEI before you insert the new SIM)
+3. Avoid same location patterns (locations, same people who have their non-anonymous phones, ...) with different SIMs, it may deanonymise you. **❗This is super hard to do right, so if you want to do hight profile shit, never have phone on you❗**
 4. When swapping SIM and IMEI, move to different location. Same issue as point 3.
 
 ### Sources
