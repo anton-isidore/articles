@@ -26,12 +26,6 @@ In this case, this article promotes using [Firefox](https://www.mozilla.org/en-U
 
 ### Encryption
 
-#### HTTPS
-
-Browser encrypts communication between the client and the server using [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security). This extension to the HTTP protocol is called [HTTPS](https://en.wikipedia.org/wiki/HTTPS), and all websites you are visiting should support it.
-
-Extension [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/) will help you to never connect to sites that support HTTPS over old HTTP.
-
 #### DNS over HTTPS
 
 Before your browser starts to communicate with the server of the website you are about to visit, it will ask the [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) server where that page is on the internet. DNS Server will translate domain (`duckduckgo.com`) into IP address (`40.114.177.156`).
