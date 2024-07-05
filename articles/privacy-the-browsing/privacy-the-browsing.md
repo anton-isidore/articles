@@ -131,7 +131,7 @@ Many trackers will be blocked just by using uBlock Origin. On top of that, those
 
 ### How to combat fingerprinting
 
-Combating fingerprinting is currently nearly impossible. [Tor is trying to do it](https://blog.torproject.org/browser-fingerprinting-introduction-and-challenges-ahead) but there are still many issues. For example [here](https://gitlab.torproject.org/tpo/applications/tor-browser/-/issues/28290).
+Combating fingerprinting is currently nearly impossible. [Tor is trying to do it](https://blog.torproject.org/browser-fingerprinting-introduction-and-challenges-ahead) but there are still many issues.
 
 Some tools can tell, how much unique the browser is:
 
