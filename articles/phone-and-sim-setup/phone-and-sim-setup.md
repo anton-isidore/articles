@@ -31,5 +31,5 @@ But camping public wifis is not very convinient. But having a SIM card in the Pi
 3. Avoid same location patterns (locations, same people who have their non-anonymous phones, ...) with different SIMs, it may deanonymise you. **❗This is super hard to do right, so if you want to do hight profile shit, never have phone on you❗**
 4. When swapping SIM and IMEI, move to different location. Same issue as point 3.
 
-### Sources
+### Further Readings
 - https://nethemba.com/how-to-maximize-anonymity-when-accessing-the-internet-on-mobile/
