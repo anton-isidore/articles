@@ -26,6 +26,10 @@ In this case, this article promotes using [Firefox](https://www.mozilla.org/en-U
 
 ### Encryption
 
+#### HTTPS only
+
+Follow https://support.mozilla.org/en-US/kb/https-only-prefs and turn it ON. 
+
 #### DNS over HTTPS
 
 Before your browser starts to communicate with the server of the website you are about to visit, it will ask the [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) server where that page is on the internet. DNS Server will translate domain (`duckduckgo.com`) into IP address (`40.114.177.156`).
