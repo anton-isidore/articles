@@ -33,3 +33,4 @@ But camping public wifis is not very convinient. But having a SIM card in the Pi
 
 ### Further Readings
 - https://nethemba.com/how-to-maximize-anonymity-when-accessing-the-internet-on-mobile/
+- https://x.com/Narodism/status/1846515492388761844
